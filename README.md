@@ -1,2 +1,2 @@
-# lithographic
-Pagina de ejemplo de lithographic
+# graphic
+Pagina de ejemplo de graphic
